@@ -15,6 +15,17 @@ Public GPX dataset from Japanese marathon races for mapping, visualization, and 
 | Tokyo Marathon 2026 | Full | 42.195 km | 2026-03-01 | [Official site](https://www.marathon.tokyo/en/) |
 | Shizuoka Marathon 2026 | Full | 42.195 km | 2026-03-08 | [Official site](https://www.shizuoka-marathon.com/2026/en) |
 
+## Files
+
+- `gpx/Sapporo_Marathon_Half_2025.gpx`
+- `gpx/Tokyo_Legacy_Half_Marathon_2025.gpx`
+- `gpx/Yokohama_Marathon_2025.gpx`
+- `gpx/Tsukuba_Marathon_2025.gpx`
+- `gpx/Naha_Marathon_2025.gpx`
+- `gpx/Mt_Fuji_Marathon_2025.gpx`
+- `gpx/Katsuta_Marathon_2026.gpx`
+- `gpx/Tokyo_Marathon_2026.gpx`
+- `gpx/Shizuoka_Marathon_2026.gpx`
 
 ## Notes
 - These are not official race records.
